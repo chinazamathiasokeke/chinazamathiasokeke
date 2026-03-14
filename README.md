@@ -11,7 +11,7 @@
 
 
 ### Identity & Access Security
-- **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs
+- **Active Directory Deployment & Hardening**[View project](https://github.com/chinazamathiasokeke/Active-Directory-Simulation-naztechai.net)
 
 ### Vulnerability & Risk Management
 - **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies
